@@ -2,31 +2,64 @@
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Just+Another+Hand&display=swap');
     </style>
+    
+    <!--Baggrunden-->
     <rect width="700" height="1000" style="fill:rgb(235,245,190);stroke-width:3;stroke:rgb(79, 43, 43)" />
+    
+    <!--Fondamenten-->
     <circle cx="350" cy="1000" r="380" stroke="white" stroke-width="1" fill="black" />
-
-    <!--Knappen i toppen-->
-    <circle cx="350" cy="290" r="235" fill="black" />
-    <circle cx="350" cy="290" r="210" fill="white" />
-    <circle cx="350" cy="290" r="205" fill="black" />
+    
+    <!--De store øverste cirkler-->
+    <circle cx="350" cy="300" r="240" fill="black" />
+    <circle cx="350" cy="300" r="205" fill="black" stroke="white" stroke-width="5" />
 
     <!--De fire knapper-->
     <circle cx="310" cy="250" r="25" stroke="white" stroke-width="1" fill="yellow" />
     <circle cx="390" cy="250" r="25" stroke="white" stroke-width="1" fill="yellow" />
     <circle cx="310" cy="330" r="25" stroke="white" stroke-width="1" fill="yellow" />
     <circle cx="390" cy="330" r="25" stroke="white" stroke-width="1" fill="yellow" />
-
-
-    <path d="M 0 280   q 75 -110 210 -20" stroke="black" stroke-width="5" fill="none" />
+    
+    <!--Snor gennem knap
+    <path d="M 000 280   q 75 -110 210 -20" stroke="black" stroke-width="5" fill="none" />
     <path d="M 210 260 q 55 30 90 -8" stroke="black" stroke-width="5" fill="none" />
     <path d="M 300 252 q 55 -30 90 -8" stroke="black" stroke-width="5" fill="none" />
     <path d="M 390 244 q 55 30 140 -4" stroke="black" stroke-width="5" fill="none" />
     <path d="M 530 240 q 55 -20 120 30" stroke="black" stroke-width="5" fill="none" />
-    <path d="M 650 270 q 28 20 60 10" stroke="black" stroke-width="5" fill="none" />
+    <path d="M 650 270 q 28 20 60 10" stroke="black" stroke-width="5" fill="none" />-->
+    
 
 
+    <path d="M 530 240 q 55 -20 120 30" stroke="black" stroke-width="5" fill="none" />
+    <path d="M 000 280 q 75 -110 210 -20" stroke="black" stroke-width="5" fill="none" />
+    <path d="M 122 221 q 0 0 65 20" stroke="white" stroke-width="5" fill="none" />
+    <path d="M 185 240 q 80 20 105 13" stroke="white" stroke-width="5" fill="none" />
+    <path d="M 290 252 q 55 -30 100 -8" stroke="black" stroke-width="5" fill="none" />
+    <path d="M 390 244 q 55 30 140 -4" stroke="black" stroke-width="5" fill="none" />
+    <path d="M 650 270 q 28 20 60 70" stroke="black" stroke-width="5" fill="none" />
+    <!--Huset-->
+    <polygon points="475,522 480,360 420,360 420,345 382,345 455,517" style="fill:green;stroke:orange;stroke-width:0" />
 
 
+    <polygon points="450,645 470,520 455,517 380,340 325,517 305,517 305,480 250,481 258,540 268,550 282,549 296,545 310,535 330,534 280,576 280,576" style="fill:white;stroke:orange;stroke-width:1" />
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <!--Text-->
     <text x="350" y="800" font-size="100" text-anchor="middle" font-family="Just Another Hand" fill="White">Coraline</text>
     <text x="350" y="840" font-size="30" text-anchor="middle" font-family="Just Another Hand" fill="White">Neil Gaiman</text>
