@@ -33,7 +33,7 @@
 </g>
 
 <g transform="translate(0,0)">
-    <!--Taget af huset-->
+    <!--Taget-->
     <polygon opacity="1" points="468,527 473,525 487,395 415,393 414,450 440,550" style="fill:green;stroke:black;stroke-width:1" />
     <polygon opacity="1" points="414,434 415,386 396,386" style="fill:green;stroke:black;stroke-width:1" />
     <polygon opacity="1" points="380,362 351,300 282,443 298,477 295,478 298,511 319,512" style="fill:green;stroke:black;stroke-width:1" />
@@ -41,9 +41,9 @@
     <polygon opacity="1" points="229,337 282,481 298,477" style="fill:green;stroke:black;stroke-width:1" />
     <polygon opacity="1" points="227,333 242,489 281,481" style="fill:green;stroke:black;stroke-width:1" />
     <polygon opacity="1" points="227,346 227,491 242,489" style="fill:green;stroke:black;stroke-width:1" />
-    <!--Fronten af huset. Skal være forrest.-->
+    <!--Huset.-->
     <polygon opacity="1" points="440,635 468,527 458,519 382,354 315,510 299,511 293,477 229,491 249,549 209,587 210,591 216,591 235,638" style="fill:black;stroke:black;stroke-width:1" />
-    <!--Taget der er i huset-->
+    <!--Taget på huset-->
     <polygon opacity="1" points="211,586 276,575 325,532 307,534 290,550 284,556 270,558 259,558 248,550" style="fill:green;stroke:black;stroke-width:1" />
     <!--Skorsten-->
     <polygon opacity="1" points="438,476 461,332 430,328 428,466" style="fill:black;stroke:black;stroke-width:1" />
